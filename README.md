@@ -7,7 +7,7 @@
 
 **Institution**: University of Calgary 
 
-**License**: [CC BY 4.0] (http://creativecommons.org/licenses/by/4.0/) 
+**License**: 
 
 **Contact Information**: kate.murch@ucalgary.ca
 
