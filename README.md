@@ -26,7 +26,7 @@ This project explores how community gardens support the health and sustainabilit
 
 ---
 ## Coordinate Reference System   
-All data uses **NAD83 / UTM Zone 11 N (ESPG 26911)**  
+All data uses **NAD84 / UTM Zone 11 N**  
 
 ---
 ## Data Sources and Processing  
