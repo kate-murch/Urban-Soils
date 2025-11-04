@@ -5,7 +5,7 @@ Coordinate Reference System (CRS): NAD83 / UTM Zone 11N (EPSG:26911)
 
 Description:
 Elevation data sampled from the City of Calgary’s Digital Elevation Model (DEM).
-Values represent ground elevation in metres at each sampled point across the city.
+Values represent ground elevation in metres.
 
 Source:
 City of Calgary Open Data Portal – “Digital Elevation Model (DEM)”
