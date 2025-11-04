@@ -1,5 +1,5 @@
 Dataset Title: Digital Elevation Model (DEM) – City of Calgary
-File Name: dem_points.csv
+File Name: slope_degree.csv
 Format: CSV (Comma Separated Values)
 Coordinate Reference System (CRS): NAD83 / UTM Zone 11N (EPSG:26911)
 
