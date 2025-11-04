@@ -1,1 +1,24 @@
+Vegetation Cover (NDVI) – City of Calgary
+- File Name: ndvi_points.csv
+CSV (Comma Separated Values)
+NAD84 / UTM Zone 11N 
+
+This dataset contains vegetation cover values for Calgary, expressed as
+Normalized Difference Vegetation Index (NDVI). This represents vegetation density ranging from 0 (bare or
+impervious surface) to 1 (healthy vegetation).
+
+City of Calgary Open Data Portal
+
+Processing Steps:
+1. The raster was loaded into QGIS.
+2. The “Raster pixels to points” tool was used.
+3. The resulting point layer was exported as a CSV file.
+
+The prupose is to provide a dataset of vegetation cover within the City of Calgary
+
+License:
+CC0 1.0 Universal (Public Domain)
+Original source: City of Calgary Open Data (CC BY 4.0).
+
+
 
