@@ -1,0 +1,31 @@
+Dataset Title: Digital Elevation Model (DEM) – City of Calgary
+File Name: dem_points.csv
+Format: CSV (Comma Separated Values)
+Coordinate Reference System (CRS): NAD83 / UTM Zone 11N (EPSG:26911)
+
+Description:
+Elevation data sampled from the City of Calgary’s Digital Elevation Model (DEM).
+Values represent ground elevation in metres at each sampled point across the city.
+
+Source:
+City of Calgary Open Data Portal – “Digital Elevation Model (DEM)”
+https://www.calgary.ca/maps/digital-elevation-model.html
+
+Date Accessed: October 2025
+
+Processing Steps:
+1. Loaded DEM raster in QGIS.
+2. Used the “Raster pixels to points” tool to convert cells to points.
+3. Exported points as a CSV file.
+
+Purpose:
+To provide elevation values used in slope/erosion risk and Urban Soil Sustainability Index (USSI) analysis.
+
+License:
+CC0 1.0 Universal (Public Domain)
+Original source: City of Calgary Open Data (CC BY 4.0).
+
+Contact:
+Kate Murch – University of Calgary – GEOG 587 (2025)
+
+https://www.calgary.ca/maps/digital-elevation-model.html
