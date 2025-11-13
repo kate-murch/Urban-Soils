@@ -1,5 +1,6 @@
 Impervious Surface – Copernicus Land Monitoring Service
 - File Name: impervious_points.csv
+Hosted externally due to large file size - download from link (https://drive.google.com/file/d/1oRHwvr9y6R36PmupXgL2omck75wg7egw/view?usp=sharing)
 CSV (Comma Separated Values)
 NAD84 / UTM Zone 11N
 
